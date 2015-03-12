@@ -1,0 +1,9 @@
+/* XPM */
+static char * title_1_inactive_xpm[] = {
+"1 4 2 1",
+" 	c None",
+".	c #434A54",
+".",
+".",
+".",
+"."};
